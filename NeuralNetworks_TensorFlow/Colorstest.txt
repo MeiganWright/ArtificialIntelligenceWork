@@ -1,0 +1,8 @@
+Training Data:
+RGB input: [255, 0, 0], output = red                                   
+RGB input: [220, 10, 10], output = red 
+RGB input: [255, 255, 0], output = yellow
+RBG input: [200, 198, 10], output = yellow
+
+Testing Data:
+RBG input: [200, 200, 12]
